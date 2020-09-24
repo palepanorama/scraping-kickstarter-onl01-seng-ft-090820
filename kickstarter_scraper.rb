@@ -10,6 +10,5 @@ def create_project_hash
     projects[title.to_sym] = {}
   end
  
-
   projects
 end
